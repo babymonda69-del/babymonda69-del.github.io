@@ -1,0 +1,5 @@
+{
+  "name": "THK Marketing Internal Portal",
+  "description": "A secure internal management system for THK Marketing featuring role-based access, team management, and real-time task tracking.",
+  "requestFramePermissions": []
+}
